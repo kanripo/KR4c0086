@@ -7,3 +7,5 @@
 #+PROPERTY: JUAN 4
 #+PROPERTY: FILE SB04n0468-004碧雲集-跋.
 <pb:KR4c0086_SBCK_004-1a>¶
+# SB1_0764-161.png (to SB1_0764-164)
+# page missing
